@@ -1,0 +1,55 @@
+[INCLUDE=presentation]
+Title         : プレゼンのサンプル
+Sub Title     : HTML と TEX の知識が両方使える
+Author        : 安部　航
+Affiliation   : 路上のプレアデス
+Email         : b_bluejean3@ab.cyberhome.ne.jp
+Reveal Theme  : blood
+Beamer Theme  : annarbor
+
+[TITLE]
+
+# Content
+
+[TOC]
+
+# Self Introduction
+
+~ {margin-bottom: 5rem}
+* 名前: 安部　航
+* 趣味: パワーリフティング、自転車ロードレース、等
+~
+
+~ Begin Framed
+  `*`と半角スペースで箇条書きができる。
+  
+  `~ Begin Framed`と`~ End Framed`で文章を挟むことによってこのようなブロックが作れる。
+~ End Framed
+
+~ Begin Vertical
+<!-- {data-background:blue} -->
+
+# パワーリフティングについて {#vertical}
+
+~
+* 66kg級\
+* トータルベスト記録は402.5kg
+~~ Notes
+`~~Notes (文章)　~~`で右上に補足をつけられる。場所を指定する方法は未だ不明。
+~~
+~
+
+~ Begin Framed
+  `~ Begin Vertical`と`~ End Vertical`でページ群を挟むことによって、
+  縦にめくるスライドを作ることが可能！
+~ End Framed
+
+## 今後の目標:パワーリフティング
+
+トータル425kgが次回大会の目標となる。
+
+~ End Vertical
+<!-- # 自転車ロードレースについて-->
+
+
+
