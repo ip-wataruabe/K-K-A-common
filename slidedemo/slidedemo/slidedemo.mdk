@@ -1,0 +1,31 @@
+[INCLUDE=presentation]
+Title         : 自己紹介
+Sub Title     : とりあえず
+Author        : 
+Affiliation   : 
+Email         : 
+Reveal Theme  : moon
+Beamer Theme  : singapore
+
+[TITLE]
+
+# Maodoko
+
+[TOC]
+
+# みんなのしょうかい
+
+> 改行もできるよ\
+> &emsp;&emsp; --- できた！
+
+## こまつざき
+* 名前
+ - {.fragment} こまつざき　ゆき
+* 出身地
+ - {.fragment} 茨城県
+* 誕生日
+  - {.fragment} 10/21
+* 趣味
+  - {.fragment} 土いじり（これからやる予定）
+
+
