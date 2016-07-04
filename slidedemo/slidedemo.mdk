@@ -9,11 +9,25 @@ Beamer Theme  : singapore
 
 [TITLE]
 
-# ○○
+# Introduction of Madoko
 
-[TOC]
+## 特徴
 
-# △△
+- Reveal.js x Markdown x LaTeX
+- プレゼンだけでなく、文書やWebページも
+- 書きながら確認できるプレビュー機能
 
+## 短所
 
+- 日本語の解説が少ない
+
+## 向き
+
+- 素早く作りたいとき
+- 学術系の発表を行うとき
+
+## 不向き
+
+- 派手なプレゼン
+- 凝ったプレゼン
 
