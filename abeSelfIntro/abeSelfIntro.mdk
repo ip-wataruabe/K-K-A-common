@@ -1,0 +1,83 @@
+[INCLUDE=presentation]
+Title         : 自己紹介プレゼン
+Sub Title     : ・・・の、サンプル
+Author        : 安部　航
+Affiliation   : 路上のプレアデス
+Email         : b_bluejean3@ab.cyberhome.ne.jp
+Reveal Theme  : blood
+Beamer Theme  : annarbor
+
+[TITLE]
+
+# Content
+
+[TOC]
+
+# Personal Data
+
+~ {margin-bottom: 5rem}
+* 名前: 安部　航
+* 誕生日:4月24日(27歳)
+* 趣味: パワーリフティング、自転車ロードレース、等
+* 好きな食べ物:マルゲリータ、グリルドチキン
+~
+
+~ Begin Framed
+  現在の職場の近くにはイタリア料理店が豊富ではあるが、
+  どこもかしこもランチの時間帯にはパスタがメインなのが
+  悩み。1,800円出してプレート料理にするか、
+  片道1km歩いてピザを食べに行くか・・・。\
+  大抵の場合、パスタで我慢する。
+  
+~ End Framed
+
+
+~ Begin Vertical{color=yellow} 
+
+# パワーリフティングについて {#vertical}
+
+~
+* 66kg級\
+* トータルベスト記録は402.5kg
+ - スクワット 140kg
+ - ベンチプレス 90kg
+ - デッドリフト 172.5kg
+~
+
+## 今後の目標:パワーリフティング
+
+トータル[425kg]{ font-size:larger }が次回大会の目標となる。
+
+~ Framed
+ ジャパンクラシックパワーリフティング選手権大会の[出場標準記録]
+~
+
+[出場標準記録]: http://www.jpa-powerlifting.or.jp/japan_new/qualifying/ "link title"
+
+## 今後の目標　～詳細～
+
+
+1. スクワット 155kg
+2. ベンチプレス 100kg
+3. デッドリフト　180kg
+{.fragmented}
+
+~ Center
+で、10kg余裕をもって達成可能！
+{.fragment}
+~
+
+
+~ End Vertical
+
+~Begin Vertical
+
+# 自転車ロードレースについて{data-background=images/12802931_107984672930700_5992841272029566435_n.jpg}
+
+[12802931_107984672930700_5992841272029566435_n]: images/12802931_107984672930700_5992841272029566435_n.jpg "12802931_107984672930700_5992841272029566435_n" { width:auto; max-width:90%; filter:brightness(1%);}
+
+# 現状
+
+~End Vertical
+
+#![12802931_107984672930700_5992841272029566435_n]
