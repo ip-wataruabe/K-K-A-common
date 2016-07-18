@@ -72,12 +72,15 @@ Beamer Theme  : annarbor
 
 ~Begin Vertical
 
-# 自転車ロードレースについて{data-background=images/12802931_107984672930700_5992841272029566435_n.jpg}
+# 自転車ロードレースについて{data-background-image=images/12802931_107984672930700_5992841272029566435_n.jpg}
 
-[12802931_107984672930700_5992841272029566435_n]: images/12802931_107984672930700_5992841272029566435_n.jpg "12802931_107984672930700_5992841272029566435_n" { width:auto; max-width:90%; filter:brightness(1%);}
+主にタイムトライアルの大会に出場
 
-# 現状
+次回は8/21のNISHIGOバイシクルフェス2016に出場予定
+{.fragment}
+
+![timeTrialJapan]
+
+[timeTrialJapan]: slidedemo/abeSelfIntro/images/12802931_107984672930700_5992841272029566435_n.jpg  "Starting" {width =100%}
 
 ~End Vertical
-
-#![12802931_107984672930700_5992841272029566435_n]
