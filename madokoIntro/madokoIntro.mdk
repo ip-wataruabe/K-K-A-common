@@ -14,7 +14,7 @@ Beamer Theme  : Rochester
 # 新規にページを作る
 
 ~ Center {margin-bottom:2ex}
-[\# と打つだけでOK。手間がかからない。]{font-size:larger}
+[\# と打つだけでOK。手間がかからない。]{font-size=larger}
 ~
 
 ~ { border-style=solid border-width=1px border-color=orange width=80%  margin-left=5ex}
@@ -68,32 +68,36 @@ TEXの知識をそのまま使える。手間がかからない。
 ~
 
 ~ Theorem 
-単調収束定理:(可測な)実数値関数$f$に対して$f\uparrow f_n$なる関数列$\{f\}_{n=1}^\infty$が存在するとき
+単調収束定理:(可測な)実数値関数$\color{white}f$に対して$\color{white}f\uparrow f_n$なる関数列$\color{white}\{f_n \}_{n=1}^\infty$が存在するとき、式($\ref{eq:mct}$)が成立
+←refコマンドは使えないっぽい。
+~
 
-  $
-    \int f d\mu = \lim_{n\to\infty}\int f_n d\mu
-  $
+~ Equation
+    \color{white}\int f d\mu = \lim_{n\to\infty}\int f_n d\mu\label{eq:mct}
 ~
  
 # まとめ
 
 * {.fragment} 派手に装飾する必要のないスライドを手間をかけずに作れる
 * {.fragment} 特に大学のゼミ向き
-* {.fragment} バグに注意
+* {.fragment} バグに注意?
 
 以上、ご清聴ありがとうございました。
 
 
-# おまけ:全角スペースバグ{text-align=center}
+#　おまけ：全角スペースバグ{text-align=center}
 
 ~ {width=80% margin-left:3em}
 新規ページの「\#」の直後に全角スペースを置くとページ送りの挙動がおかしくなる。
-数式コマンドも無視される$1+1=2$
+数式コマンドも無視される$1+1=2$\
+・・・と思ってましたが数式は問題なく表示できてました。
 ~
 
-~ Equation
-1 + 1 =2
+~ Equation {background-color=black}
+\color{white} 1 + 1 =2
 ~
+
+# バグでこのページに行けない
 
 ~ Slide
 おまけ2: ヘッダーのないページも作れるらしい。
