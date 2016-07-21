@@ -81,6 +81,19 @@ Beamer Theme  : annarbor
 
 ![timeTrialJapan]
 
-[timeTrialJapan]: slidedemo/abeSelfIntro/images/12802931_107984672930700_5992841272029566435_n.jpg  "Starting" {width =100%}
+[timeTrialJapan]: images/12802931_107984672930700_5992841272029566435_n.jpg  "Starting" {width =100%}
 
 ~End Vertical
+
+# おまけ
+
+~ Begin BlockQuote {background-color=white color=black padding=1em}
+~ Theorem
+単調収束定理:(可測な)実数値関数$f$に対して$f\uparrow f_n$なる関数列$\{f_n \}_{n=1}^\infty$が存在するとき、
+~
+
+~ Equation
+    \displaystyle\int f d\mu = \lim_{n\to\infty}\int f_n d\mu \label{eq:mct}  
+~
+
+~ End BlockQuote
